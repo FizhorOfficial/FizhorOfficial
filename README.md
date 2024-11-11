@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahadu Hafizu Aka @FizhorOfficial
 - 👀 I’m interested in website development and AI
-- 🌱 I’m currently learning Javascript currently 
+- 🌱 I’m currently learning Javascript  
 - 💞️ I’m looking to collaborate on with like-minded people in those fields 
 - 📫 How to reach me Facebook @Abdul Hafiz Shahadu,WhatsApp @+233598070342 Ghana 
 - 😄 Pronouns:Mr, Dev
